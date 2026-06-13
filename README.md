@@ -16,6 +16,7 @@ Educational institutions often struggle to track student placement performance a
 * Slicers
 * Timeline Filter
 * KPI Cards
+* VBA (Visual Basic for Applications)
 * Excel Formulas & Functions
 * Dashboard Navigation
 
